@@ -1,5 +1,5 @@
 
-# Exercise 1 – Submission Instructions
+# Exercise 2 – Submission Instructions
 ⚠️ **IMPORTANT RULES**
 - You MUST fork this repository
 - You MUST upload files ONLY inside your own folder
